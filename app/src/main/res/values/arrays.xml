@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="Genre">
-
+        <item>Blues</item>
+        <item>Dance/EDM</item>
+        <item>Easy Listening</item>
+        <item>Hip hop</item>
+        <item>Instrumental</item>
+        <item>Jazz</item>
+        <item>Latin</item>
         <item>Pop</item>
         <item>RnB</item>
         <item>Reggae</item>
